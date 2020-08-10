@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MXMSoundRenamer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MXMSoundRenamer_jar</output-path>
+    <root id="archive" name="MXMSoundRenamer.jar">
+      <element id="module-output" name="MXMSoundRenamer" />
+    </root>
+  </artifact>
+</component>
